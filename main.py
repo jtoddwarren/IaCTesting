@@ -17,6 +17,7 @@ def main():
     
     base_dir= input("Please enter the directory: ")
     print("\n")
+    print("\n")  #added to test actions
     
     
     project_name = input ("Please enter the project name: ")
